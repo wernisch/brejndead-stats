@@ -4,8 +4,8 @@
       "id": 7626153268,
       "rootPlaceId": 95145490867665,
       "name": "🏁 Parkour Obby [W7]",
-      "playing": 1827,
-      "visits": 44728994,
+      "playing": 1755,
+      "visits": 44741906,
       "likeRatio": 71,
       "icon": "https://tr.rbxcdn.com/180DAY-560b9720004c60f5445cfbeb27183ad9/768/432/Image/Png/noFilter"
     },
@@ -13,8 +13,8 @@
       "id": 8294794009,
       "rootPlaceId": 73398239244597,
       "name": "99 Nights in the Bunker🐻 [FURNISH THE BUNKER]",
-      "playing": 1698,
-      "visits": 26909040,
+      "playing": 1712,
+      "visits": 26918605,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-c4dbbc5952e626d4ec60843cf466a043/768/432/Image/Png/noFilter"
     },
@@ -22,8 +22,8 @@
       "id": 2946951335,
       "rootPlaceId": 7585576110,
       "name": "Squid Game [S3]",
-      "playing": 905,
-      "visits": 66100834,
+      "playing": 1066,
+      "visits": 66116481,
       "likeRatio": 71,
       "icon": "https://tr.rbxcdn.com/180DAY-60a2db071613f3c7ff4baeaff239e977/768/432/Image/Png/noFilter"
     },
@@ -31,8 +31,8 @@
       "id": 6743843913,
       "rootPlaceId": 128600294498821,
       "name": "2 Player Duck Tycoon",
-      "playing": 395,
-      "visits": 17459697,
+      "playing": 354,
+      "visits": 17461917,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-c1bc077d118b97c84d216dbf625f19da/768/432/Image/Png/noFilter"
     },
@@ -40,17 +40,26 @@
       "id": 8271046459,
       "rootPlaceId": 136538744777648,
       "name": "Cool a Baddie",
-      "playing": 263,
-      "visits": 10933671,
+      "playing": 280,
+      "visits": 10935545,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-d9ca814e8f914cb4f8c828e9a3c6ec85/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8617745696,
+      "rootPlaceId": 116739501459923,
+      "name": "Draw Troll Tower",
+      "playing": 241,
+      "visits": 6351397,
+      "likeRatio": 71,
+      "icon": "https://tr.rbxcdn.com/180DAY-035084784a3c0445708ee8a58d222eb3/768/432/Image/Png/noFilter"
     },
     {
       "id": 8470216398,
       "rootPlaceId": 93143404496454,
       "name": "Protect The House From Brainrots",
-      "playing": 212,
-      "visits": 5187062,
+      "playing": 209,
+      "visits": 5188418,
       "likeRatio": 79,
       "icon": "https://tr.rbxcdn.com/180DAY-78bd954d040aa52364d074730b9e11bf/768/432/Image/Png/noFilter"
     },
@@ -58,26 +67,17 @@
       "id": 7166097502,
       "rootPlaceId": 75917364083659,
       "name": "[UPD] Parkour Rush",
-      "playing": 199,
-      "visits": 58066268,
+      "playing": 189,
+      "visits": 58068086,
       "likeRatio": 37,
       "icon": "https://tr.rbxcdn.com/180DAY-ea47b2f328c575b7bc01588ffc6fee3f/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8617745696,
-      "rootPlaceId": 116739501459923,
-      "name": "Draw Troll Tower",
-      "playing": 196,
-      "visits": 6349564,
-      "likeRatio": 71,
-      "icon": "https://tr.rbxcdn.com/180DAY-035084784a3c0445708ee8a58d222eb3/768/432/Image/Png/noFilter"
     },
     {
       "id": 8418842748,
       "rootPlaceId": 120394952394267,
       "name": "[67] Brainrot Bridge Battles!",
-      "playing": 194,
-      "visits": 7870966,
+      "playing": 170,
+      "visits": 7872294,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-47f2b071a09665f8ddb48ff2327ddeec/768/432/Image/Png/noFilter"
     },
@@ -85,8 +85,8 @@
       "id": 8631229462,
       "rootPlaceId": 93262383642831,
       "name": "Find the Ducks 3 🐤",
-      "playing": 145,
-      "visits": 309669,
+      "playing": 167,
+      "visits": 310678,
       "likeRatio": 89,
       "icon": "https://tr.rbxcdn.com/180DAY-c8cfcbf9dd3a0d3fa4a58a5d647454cc/768/432/Image/Png/noFilter"
     },
@@ -94,8 +94,8 @@
       "id": 8886304312,
       "rootPlaceId": 72210142604776,
       "name": "Angry Brainrots💥🏹",
-      "playing": 113,
-      "visits": 149645,
+      "playing": 119,
+      "visits": 150518,
       "likeRatio": 78,
       "icon": "https://tr.rbxcdn.com/180DAY-e1b9f929ccda69dc46b09478189aa541/768/432/Image/Png/noFilter"
     },
@@ -103,8 +103,8 @@
       "id": 8154106881,
       "rootPlaceId": 96576246305727,
       "name": "Feed Your Meme",
-      "playing": 109,
-      "visits": 3127297,
+      "playing": 91,
+      "visits": 3127910,
       "likeRatio": 98,
       "icon": "https://tr.rbxcdn.com/180DAY-cf4a16b465f2c8e875f1e8face4f8dd2/768/432/Image/Png/noFilter"
     },
@@ -112,35 +112,35 @@
       "id": 8034900041,
       "rootPlaceId": 110140205878899,
       "name": "[💪] Slap POWER Simulator",
-      "playing": 58,
-      "visits": 1114525,
+      "playing": 70,
+      "visits": 1114941,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-0c9c592732a18f036a272c7de0336ad2/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7016268111,
-      "rootPlaceId": 110729496024718,
-      "name": "Find the Ducks 2 🐤",
-      "playing": 57,
-      "visits": 7287607,
-      "likeRatio": 96,
-      "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
     },
     {
       "id": 6431757712,
       "rootPlaceId": 18984604254,
       "name": "Find the Ducks 🐤",
-      "playing": 49,
-      "visits": 15200569,
+      "playing": 68,
+      "visits": 15200955,
       "likeRatio": 96,
       "icon": "https://tr.rbxcdn.com/180DAY-79c678279c1485a35a8ad2c44b851f5b/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7016268111,
+      "rootPlaceId": 110729496024718,
+      "name": "Find the Ducks 2 🐤",
+      "playing": 50,
+      "visits": 7287966,
+      "likeRatio": 96,
+      "icon": "https://tr.rbxcdn.com/180DAY-84fc046c8d2e405d7c9886cb4140f616/768/432/Image/Png/noFilter"
     },
     {
       "id": 7168683817,
       "rootPlaceId": 101877418419164,
       "name": "[Update 4] Crazy Shooter 🔫",
       "playing": 45,
-      "visits": 23306693,
+      "visits": 23307126,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-707dbbbf9f188eb8a02c57a4618b1967/768/432/Image/Png/noFilter"
     },
@@ -148,8 +148,8 @@
       "id": 8120277194,
       "rootPlaceId": 94814332487701,
       "name": "[UPD]Squid Game Roleplay Tower",
-      "playing": 43,
-      "visits": 5615657,
+      "playing": 38,
+      "visits": 5615999,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-7bb3974ce684358ff05ee3b13dc743ad/768/432/Image/Png/noFilter"
     },
@@ -158,34 +158,43 @@
       "rootPlaceId": 117262185010169,
       "name": "Brainrot Stairs",
       "playing": 35,
-      "visits": 2621088,
+      "visits": 2621384,
       "likeRatio": 74,
       "icon": "https://tr.rbxcdn.com/180DAY-707ca29695d1961775353b02c06d8f1b/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7401898945,
-      "rootPlaceId": 119763530757359,
-      "name": "Midnight Stalker [HORROR]",
-      "playing": 28,
-      "visits": 1146286,
-      "likeRatio": 93,
-      "icon": "https://tr.rbxcdn.com/180DAY-6b94c5ee4823d7004489e4c716e93d6c/768/432/Image/Png/noFilter"
     },
     {
       "id": 3071634329,
       "rootPlaceId": 7944970325,
       "name": "Emily [HORROR]",
-      "playing": 21,
-      "visits": 5585075,
+      "playing": 34,
+      "visits": 5585301,
       "likeRatio": 86,
       "icon": "https://tr.rbxcdn.com/180DAY-44f3207588167522883c24e9f9a9aa59/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7401898945,
+      "rootPlaceId": 119763530757359,
+      "name": "Midnight Stalker [HORROR]",
+      "playing": 13,
+      "visits": 1146404,
+      "likeRatio": 93,
+      "icon": "https://tr.rbxcdn.com/180DAY-6b94c5ee4823d7004489e4c716e93d6c/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7349366409,
+      "rootPlaceId": 94531073688710,
+      "name": "Blobfish Evolution",
+      "playing": 10,
+      "visits": 1837339,
+      "likeRatio": 77,
+      "icon": "https://tr.rbxcdn.com/180DAY-069cc29e9020f97c7c443f8e945aea8e/768/432/Image/Png/noFilter"
     },
     {
       "id": 8385096583,
       "rootPlaceId": 116392855614296,
       "name": "Swimming Brainrots 🏊",
-      "playing": 12,
-      "visits": 422381,
+      "playing": 10,
+      "visits": 422465,
       "likeRatio": 93,
       "icon": "https://tr.rbxcdn.com/180DAY-0041e74a7e04ee4f23ebcec1fcd2fa6f/768/432/Image/Png/noFilter"
     },
@@ -193,44 +202,35 @@
       "id": 8091666772,
       "rootPlaceId": 132695564275109,
       "name": "Build a Capybara Army 🍊",
-      "playing": 11,
-      "visits": 590863,
+      "playing": 7,
+      "visits": 590995,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-d071ba6468ed28fa78a488e052fdc1bb/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7349366409,
-      "rootPlaceId": 94531073688710,
-      "name": "Blobfish Evolution",
-      "playing": 9,
-      "visits": 1837285,
-      "likeRatio": 77,
-      "icon": "https://tr.rbxcdn.com/180DAY-069cc29e9020f97c7c443f8e945aea8e/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 8649112027,
-      "rootPlaceId": 105228308854269,
-      "name": "Break Bones Tower",
-      "playing": 7,
-      "visits": 390542,
-      "likeRatio": 87,
-      "icon": "https://tr.rbxcdn.com/180DAY-99f062d68b9317dcff73fbbcdb5237c8/768/432/Image/Png/noFilter"
     },
     {
       "id": 6614175388,
       "rootPlaceId": 110188985157419,
       "name": "Find the Monkeys 🐵",
       "playing": 6,
-      "visits": 1944343,
+      "visits": 1944379,
       "likeRatio": 95,
       "icon": "https://tr.rbxcdn.com/180DAY-2a9442c645746416d0df1d0fa467b7df/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 8649112027,
+      "rootPlaceId": 105228308854269,
+      "name": "Break Bones Tower",
+      "playing": 5,
+      "visits": 390619,
+      "likeRatio": 87,
+      "icon": "https://tr.rbxcdn.com/180DAY-99f062d68b9317dcff73fbbcdb5237c8/768/432/Image/Png/noFilter"
     },
     {
       "id": 8030001602,
       "rootPlaceId": 138241781054404,
       "name": "Superhero Jump Clicker 🦸🚀",
       "playing": 3,
-      "visits": 682118,
+      "visits": 682154,
       "likeRatio": 58,
       "icon": "https://tr.rbxcdn.com/180DAY-9f8b4380b7b7d8922082c62d54abfb67/768/432/Image/Png/noFilter"
     },
@@ -238,17 +238,26 @@
       "id": 6463581673,
       "rootPlaceId": 93262241099803,
       "name": "Find the Teddy Bears 🧸",
-      "playing": 2,
-      "visits": 1757652,
+      "playing": 3,
+      "visits": 1757676,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-b387ecde2072ee0fad4d9f5d88175731/768/432/Image/Png/noFilter"
+    },
+    {
+      "id": 7309264740,
+      "rootPlaceId": 133065705122006,
+      "name": "Midnight Groceries [HORROR]",
+      "playing": 2,
+      "visits": 536850,
+      "likeRatio": 90,
+      "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
     },
     {
       "id": 7263505269,
       "rootPlaceId": 133104769669525,
       "name": "Find the Dinos 🦕",
       "playing": 1,
-      "visits": 771804,
+      "visits": 771810,
       "likeRatio": 85,
       "icon": "https://tr.rbxcdn.com/180DAY-958d4cf46367b8c03d406eb3a946a71f/768/432/Image/Png/noFilter"
     },
@@ -257,7 +266,7 @@
       "rootPlaceId": 128241250320754,
       "name": "Kids vs Parents Tower",
       "playing": 0,
-      "visits": 401077,
+      "visits": 401100,
       "likeRatio": 87,
       "icon": "https://tr.rbxcdn.com/180DAY-920c7c1da655c4f5f977c4b0175d8e55/768/432/Image/Png/noFilter"
     },
@@ -266,7 +275,7 @@
       "rootPlaceId": 90221426386460,
       "name": "Find the Doges 🐶",
       "playing": 0,
-      "visits": 690274,
+      "visits": 690277,
       "likeRatio": 92,
       "icon": "https://tr.rbxcdn.com/180DAY-f1ca78d99552ee016bcd2b7eee56f6cf/768/432/Image/Png/noFilter"
     },
@@ -275,7 +284,7 @@
       "rootPlaceId": 119929651027130,
       "name": "Find the Frogs 🐸",
       "playing": 0,
-      "visits": 1366463,
+      "visits": 1366467,
       "likeRatio": 90,
       "icon": "https://tr.rbxcdn.com/180DAY-237de1b489f271dbecbe8f99ce4b10bf/768/432/Image/Png/noFilter"
     },
@@ -284,7 +293,7 @@
       "rootPlaceId": 92936512203560,
       "name": "Evade Protocol | FPS",
       "playing": 0,
-      "visits": 551994,
+      "visits": 551995,
       "likeRatio": 67,
       "icon": "https://tr.rbxcdn.com/180DAY-276d435f5b0bfbd05a73ef1b47e3ab87/768/432/Image/Png/noFilter"
     },
@@ -293,7 +302,7 @@
       "rootPlaceId": 81889525577944,
       "name": "Midnight Sprunki [HORROR]",
       "playing": 0,
-      "visits": 688097,
+      "visits": 688103,
       "likeRatio": 84,
       "icon": "https://tr.rbxcdn.com/180DAY-6b6092da368bd9eb7829c89a4380265a/768/432/Image/Png/noFilter"
     },
@@ -320,18 +329,9 @@
       "rootPlaceId": 82071022802894,
       "name": "Planets Merge Tycoon",
       "playing": 0,
-      "visits": 336096,
+      "visits": 336099,
       "likeRatio": 70,
       "icon": "https://tr.rbxcdn.com/180DAY-8241f2d62a5d7a1d80839fdeaea1cbbc/768/432/Image/Png/noFilter"
-    },
-    {
-      "id": 7309264740,
-      "rootPlaceId": 133065705122006,
-      "name": "Midnight Groceries [HORROR]",
-      "playing": 0,
-      "visits": 536843,
-      "likeRatio": 90,
-      "icon": "https://tr.rbxcdn.com/180DAY-2ada0d6a26d76a4e5e09f6bb8cf4142f/768/432/Image/Png/noFilter"
     },
     {
       "id": 7456466538,
@@ -374,7 +374,7 @@
       "rootPlaceId": 14640454671,
       "name": "Slingshot Obby [2 Player Obby] ",
       "playing": 0,
-      "visits": 6210719,
+      "visits": 6210722,
       "likeRatio": 97,
       "icon": "https://tr.rbxcdn.com/180DAY-eb97503f707621b71bc0613d7244c69f/768/432/Image/Png/noFilter"
     }
