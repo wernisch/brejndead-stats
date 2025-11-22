@@ -55,11 +55,11 @@ const gameMeta = {
     description: "Obby game with multiple worlds and advanced parkour system"
   },
   7334543566: { // Grow Your Duck! 🐤
-    type: "Contribution",
+    type: "Dev",
     description: "Game where you're a duck and you eat other ducks"
   },
   6829990681: { // Planets Merge Tycoon
-    type: "Contribution",
+    type: "Dev",
     description: "Game where you drop and merge planets"
   },
   7263505269: { // Find the Dinos 🦕
@@ -123,23 +123,23 @@ const gameMeta = {
     description: "Game where you have brainrots swimming in your pools and generate money"
   },
   8294794009: { // 99 Nights in the Bunker🐻 [FURNISH THE BUNKER]
-    type: "Contribution",
+    type: "Dev",
     description: "Game where you survive in the bunker"
   },
   8886304312: { // Angry Brainrots💥🏹
-    type: "Contribution",
+    type: "Dev",
     description: "Angry Birds but with brainrots"
   },
   8418842748: { // Brainrot Bridge Battles!
-    type: "Contribution",
+    type: "Dev",
     description: "Bridge battles with brainrots"
   },
   8908046810: { // My Burger Factory 🍔 [UPD]
-    type: "Contribution",
+    type: "Dev",
     description: "Game where you make burgers"
   },
   8914680488: { // Run or Die
-    type: "Contribution",
+    type: "Dev",
     description: "Classic death run game"
   }
 };
@@ -278,7 +278,7 @@ async function fetchIconsBatch(ids) {
           visits: game.visits || 0,
           likeRatio: votesMap.get(id) ?? 0,
           icon: iconsMap.get(id) ?? "",
-          type: meta.type || "Contribution",
+          type: meta.type || "Dev",
           description: meta.description || ""
         });
       }
