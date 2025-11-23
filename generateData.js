@@ -141,7 +141,12 @@ const gameMeta = {
   8914680488: { // Run or Die
     type: "Dev",
     description: "Classic death run game"
+  },
+  8802691194: { // Brainrot RPG
+    type: "Dev",
+    description: "RPG game with brainrots"
   }
+ 
 };
 
 
