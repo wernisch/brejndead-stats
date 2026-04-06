@@ -145,7 +145,23 @@ const gameMeta = {
   8802691194: { // Brainrot RPG
     type: "Dev",
     description: "RPG game with brainrots"
-  }
+  },
+
+  9954810275: { // Parkour Deathrun
+    type: "My Game",
+    description: "Deathrun game with parkour mechanics"
+  },
+    
+  9062062333: { // Build a Troll Tower
+    type: "My Game",
+    description: "A game where you build your own troll tower"
+  },
+
+  9486176869: { // Hockey Battles
+    type: "Shareholder",
+    description: "Hockey duels type of game by Crwnds"
+  },
+  
  
 };
 
