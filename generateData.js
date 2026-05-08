@@ -161,7 +161,21 @@ const gameMeta = {
     type: "Shareholder",
     description: "Hockey duels type of game by Crwnds"
   },
-  
+
+  8099904322: { // Ball Sim
+    type: "Shareholder",
+    description: "Ball collecting"
+  },
+
+  8975568157: { // Start your business
+    type: "Shareholder",
+    description: "Game by Crwnds, inspired by Adventure Capitalist"
+  },
+
+  9417988934: { // Obby Duckling
+    type: "My Game",
+    description: "Simple obby where you're a rubber duck."
+  },
  
 };
 
