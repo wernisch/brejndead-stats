@@ -176,6 +176,11 @@ const gameMeta = {
     type: "My Game",
     description: "Simple obby where you're a rubber duck."
   },
+
+  10139072503: { // parry parkour
+    type: "Dev",
+    description: "Tower obby game with parry mechanic"
+  },
  
 };
 
