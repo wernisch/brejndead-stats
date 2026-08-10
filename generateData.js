@@ -181,6 +181,11 @@ const gameMeta = {
     type: "Dev",
     description: "Tower obby game with parry mechanic"
   },
+
+  10370815769: { // parry parkour
+    type: "My Game",
+    description: "My and madakatha's pistol fps game."
+  },
  
 };
 
